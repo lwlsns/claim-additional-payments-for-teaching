@@ -7,10 +7,10 @@ a11y-dialog@^5.3.2:
   resolved "https://registry.yarnpkg.com/a11y-dialog/-/a11y-dialog-5.3.2.tgz#68b41edf344c8f2ab63b74c5b4bbdda08509c264"
   integrity sha512-edUDgtKhEReLdYzZjhOi/VLHygdPVyHWKmD36qXjK9lnMYIVm4MK0KpvNcYAZXKK+mW//UcaEhkyvK1jL8uzCQ==
 
-accessible-autocomplete@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/accessible-autocomplete/-/accessible-autocomplete-2.0.1.tgz#dbbe703d0b48cd37ec0fea97fe46f066528e8098"
-  integrity sha512-2Cq8uI+deZNGMS38MmzE+40yT1A2ZC+aRC80l4zazQeh9TrhTn7Ho1fZ0Den1F+WQBe8RNLZtufzGFrMVU8K8w==
+accessible-autocomplete@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/accessible-autocomplete/-/accessible-autocomplete-2.0.3.tgz#3ed8d529b227b77e99ab509eec5d2c8d1b8bea8b"
+  integrity sha512-bUswBs/mDH17dUFRAJMTtcGafJ++w1YLPPFjdfJj3lnuBsLpByAw2gmr8qxXX8oc7tzoKS3Ay5FKOPM+WMBxIw==
   dependencies:
     preact "^8.3.1"
 
